@@ -2,4 +2,4 @@
 
 This is a web page describing my dog, Winston. This web app was created using React.
 
-[website] https://rudydanda.github.io/WinstonWebPage/
+https://rudydanda.github.io/WinstonWebPage/
